@@ -1,0 +1,7 @@
+E:\Programming\Refactorings\C Sharp\Students And Grades\StudentsAndGrades\StudentsAndGrades\bin\Debug\StudentsAndGrades.exe.config
+E:\Programming\Refactorings\C Sharp\Students And Grades\StudentsAndGrades\StudentsAndGrades\bin\Debug\StudentsAndGrades.exe
+E:\Programming\Refactorings\C Sharp\Students And Grades\StudentsAndGrades\StudentsAndGrades\bin\Debug\StudentsAndGrades.pdb
+E:\Programming\Refactorings\C Sharp\Students And Grades\StudentsAndGrades\StudentsAndGrades\obj\Debug\StudentsAndGrades.csprojResolveAssemblyReference.cache
+E:\Programming\Refactorings\C Sharp\Students And Grades\StudentsAndGrades\StudentsAndGrades\obj\Debug\StudentsAndGrades.csproj.CoreCompileInputs.cache
+E:\Programming\Refactorings\C Sharp\Students And Grades\StudentsAndGrades\StudentsAndGrades\obj\Debug\StudentsAndGrades.exe
+E:\Programming\Refactorings\C Sharp\Students And Grades\StudentsAndGrades\StudentsAndGrades\obj\Debug\StudentsAndGrades.pdb
